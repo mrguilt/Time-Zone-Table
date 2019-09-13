@@ -18,3 +18,6 @@ The goal of this was to create a table to compare the time in various time zones
 
 `...`
 
+Right now, there are a few versions:
+* `make-time-html-table.pl` is a script written in perl to create an HTML table version. The output can then be pasted in to an HTML page.
+* `make-time-table.bas` creates a simple text table. It was written in Commodore 64 basic (using the [cbmbasic](https://github.com/mist64/cbmbasic) port), just for laughs. 
